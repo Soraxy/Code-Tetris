@@ -5,6 +5,7 @@ that was hard want to die rn
 
 commands : 
 make to compile
+make clean to remove all .o files
 ./tetris to execute
 
 the code moves in real time
